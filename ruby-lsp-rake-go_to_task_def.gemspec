@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/ruby/lsp/rake/go_to_task_def/version"
+require_relative "lib/ruby_lsp_rake_go_to_task_def/version"
 
 Gem::Specification.new do |spec|
   spec.name = "ruby-lsp-rake-go_to_task_def"
-  spec.version = Ruby::Lsp::Rake::GoToTaskDef::VERSION
+  spec.version = RubyLsp::RakeGoToTaskDef::VERSION
   spec.authors = ["Koji NAKAMURA"]
   spec.email = ["kozy4324@gmail.com"]
 

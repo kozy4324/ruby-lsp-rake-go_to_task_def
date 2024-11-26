@@ -6,3 +6,15 @@ Style/StringLiterals:
 
 Style/StringLiteralsInInterpolation:
   EnforcedStyle: double_quotes
+
+Style/Documentation:
+  Enabled: false
+
+Style/EmptyMethod:
+  Enabled: false
+
+Metrics:
+  Enabled: false
+
+Naming/FileName:
+  Enabled: false
